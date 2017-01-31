@@ -1,0 +1,24 @@
+{
+  "name": "newwebapi",
+  "version": "1.0.0",
+  "description": "new test ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeboraEngelmann/NewWebApi.git"
+  },
+  "author": "Debora Engelmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeboraEngelmann/NewWebApi/issues"
+  },
+  "homepage": "https://github.com/DeboraEngelmann/NewWebApi#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.0"
+  }
+}
